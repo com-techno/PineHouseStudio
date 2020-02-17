@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PHS</string>
+    <string name="hello_world">Pine House Studio</string>
+    <string name="hello">
+        Pine \n
+        House \n
+        Studio
+    </string>
+    <string name="Settings">Настройки</string>
+    <string name="About">Об авторах</string>
+    <string name="ControlPanel">Панель управления</string>
+    <string name="pine">Pine</string>
+    <string name="house">House</string>
+    <string name="studio">Studio</string>
+    <string name="timofey_techno">Timofey @Techno</string>
+    <string name="anton_rodex">Anton @RODEX</string>
+    <string name="mikhail_mishka2003">Mikhail @Mishka2003</string>
+    <string name="developed_by">Developed by:</string>
+</resources>
