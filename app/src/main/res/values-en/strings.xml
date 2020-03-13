@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Settings">Settings</string>
+    <string name="About">About authors</string>
+    <string name="ControlPanel">Control panel</string>
+    <string name="quit_question">Are you sure?</string>
+    <string name="exit">Quit</string>
+    <string name="no_exit">Stay</string>
+</resources>

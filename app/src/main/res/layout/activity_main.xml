@@ -31,14 +31,14 @@
             android:src="@mipmap/ic_launcher" />
 
         <TextView
-            android:textStyle="bold"
-            android:textColor="#291600"
-            android:textSize="45sp"
             android:id="@+id/greeting"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/font"
-            android:text="@string/hello_world" />
+            android:text="@string/hello_world"
+            android:textColor="#291600"
+            android:textSize="36sp"
+            android:textStyle="bold" />
 
     </LinearLayout>
 

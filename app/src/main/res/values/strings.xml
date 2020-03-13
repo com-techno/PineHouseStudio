@@ -1,19 +1,17 @@
 <resources>
-    <string name="app_name">PHS</string>
-    <string name="hello_world">Pine House Studio</string>
-    <string name="hello">
-        Pine \n
-        House \n
-        Studio
-    </string>
+    <string name="app_name" translatable="false">PHS</string>
+    <string name="hello_world" translatable="false">Pine House Studio</string>
     <string name="Settings">Настройки</string>
     <string name="About">Об авторах</string>
     <string name="ControlPanel">Панель управления</string>
-    <string name="pine">Pine</string>
-    <string name="house">House</string>
-    <string name="studio">Studio</string>
-    <string name="timofey_techno">Timofey @Techno</string>
-    <string name="anton_rodex">Anton @RODEX</string>
-    <string name="mikhail_mishka2003">Mikhail @Mishka2003</string>
-    <string name="developed_by">Developed by:</string>
+    <string name="pine" translatable="false">Pine</string>
+    <string name="house" translatable="false">House</string>
+    <string name="studio" translatable="false">Studio</string>
+    <string name="timofey_techno" translatable="false">Timofey @Techno</string>
+    <string name="anton_rodex" translatable="false">Anton @RODEX</string>
+    <string name="mikhail_mishka2003" translatable="false">Mikhail @Mishka2003</string>
+    <string name="developed_by" translatable="false">Developed by:</string>
+    <string name="quit_question">Вы уверены, что хотите выйти из приложения?</string>
+    <string name="exit">Выйти</string>
+    <string name="no_exit">Отмена</string>
 </resources>

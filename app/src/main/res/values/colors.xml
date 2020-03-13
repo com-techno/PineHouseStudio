@@ -3,6 +3,6 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
-    <color name="pine">#E0913D</color>
-    <color name="darkPine">#F0915207</color>
+    <color name="colorPine">#E0913D</color>
+    <color name="colorPineDark">#F0915207</color>
 </resources>
